@@ -1,12 +1,26 @@
 {
   "users": [
     {
+      "username": "ram",
+      "password": "ram",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "email": "ram@gmail.com",
+      "id": 1
+    },
+     {
+      "username": "raja",
+      "password": "raja",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "email": "raja@gmail.com",
+      "id": 2
+    },
+     {
       "username": "raju",
       "password": "raju",
       "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
       "email": "raju@gmail.com",
-      "id": 1
-    }
+      "id": 3
+    },
   ],
   "questions": [
     {
